@@ -1,0 +1,5 @@
+##This project involves :
+
+DATA ARCHITECTURE - Used medallion structure bronze,silver and gold layer.
+ETL PIPELINE - Extracting , Transforming  and loading data from source systems into the warehouse.
+DATA MODELLING - Developing fact and dimension tables optimized for analytical queries.

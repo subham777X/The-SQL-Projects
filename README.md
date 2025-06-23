@@ -1,2 +1,2 @@
 # The-SQL-Projects
-These are the excel based projects
+This is a PostgreSQL based DataWarehouse Project

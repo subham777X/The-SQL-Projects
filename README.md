@@ -1,2 +1,2 @@
 # The-SQL-Projects
-These are PostgreSQL based DataWarehouse Projects
+These are PostgreSQL based Projects
